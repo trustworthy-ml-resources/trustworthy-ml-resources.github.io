@@ -17,6 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+THIS PAGE IS WORK IN PROGRESS
+
 Intro text
 1. Enable easy access of fundamental resources to newcomers in the field. 
 2. Provide a platform for early career researchers to showcase and disseminate their work.

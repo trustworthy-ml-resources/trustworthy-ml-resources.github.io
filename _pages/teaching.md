@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: introduction
+description: Curated resources for newcomers in this field. This list is regularly updated by our organizers. 
 nav: true
 ---
 
