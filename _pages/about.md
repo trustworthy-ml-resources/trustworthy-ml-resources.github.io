@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: explainable, fair, privacy-preserving, causal, and robust machine learning research
+order: 1
 
 profile:
   align: right
