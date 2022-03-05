@@ -7,6 +7,11 @@ years: [1956, 1950, 1935, 1905]
 nav: true
 order: 5
 ---
+Here, we will create multiple folders for conferences. 
+* Add papers before a conference to draw attention to trustworthy ML papers. In this way, you can promote your own work or contributions by other researchers from our community.
+* Add papers/talks after a conference to the general resources if you liked the contribution. This helps to highlight great work from our community.
+
+If a conference is coming up we will provide a separate form for each conference we are covering. Note: Contributions added before the conference in the separate form won't be automatically added to our resources! 
 <!-- _pages/publications.md -->
 <div class="publications">
 
