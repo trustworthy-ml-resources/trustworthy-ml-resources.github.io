@@ -11,3 +11,5 @@ children:
     - title: projects
       permalink: /projects/
 ---
+
+<!-- dropdown menu belongs to _pages -->
