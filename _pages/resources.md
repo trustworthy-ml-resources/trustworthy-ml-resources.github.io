@@ -4,11 +4,10 @@ title: resources
 permalink: /projects/
 description: A growing collection of your trustworthy ml research.
 nav: true
-display_categories: [work, fun]
 horizontal: false
 order: 4
 ---
-
+<!-- display_categories: [work, fun] -->
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

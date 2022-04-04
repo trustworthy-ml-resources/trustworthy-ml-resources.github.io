@@ -2,7 +2,7 @@
 layout: page
 title: Causality
 description: a project with a background image
-img: assets/img/1.jpg
+img: assets/img/causal.png
 importance: 3
 category: fun
 ---

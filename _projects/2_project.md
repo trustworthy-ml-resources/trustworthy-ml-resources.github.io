@@ -2,7 +2,7 @@
 layout: page
 title: Robustness
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/neural.png
 importance: 2
 category: work
 ---

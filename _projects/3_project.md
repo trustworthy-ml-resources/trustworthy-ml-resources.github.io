@@ -2,8 +2,7 @@
 layout: page
 title: Privacy
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/lock.png
 importance: 3
 category: work
 ---
