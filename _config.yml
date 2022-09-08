@@ -83,7 +83,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: news  # your blog must have a name for it to show up in the nav bar
+blog_name:   # your blog must have a name for it to show up in the nav bar
 blog_description: current news for our resource page
 permalink: /blog/:year/:title/
 
@@ -108,6 +108,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  conferences:
+    output: true
+    permalink: /conferences/:path/
 
 news_limit: 5
 

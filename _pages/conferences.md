@@ -3,7 +3,6 @@ layout: page
 permalink: /conferences/
 title: conferences
 description: trustworthy ml resources from conferences
-years: [1956, 1950, 1935, 1905]
 nav: true
 order: 5
 ---
@@ -13,13 +12,6 @@ Top tier machine learning conferences get larger every year and the number of ac
 * Add papers/talks after a conference to complete the list of trustworthy ml resources for the given conference. 
 
 If a conference is coming up we will provide a separate form for each conference we are covering. 
-<!-- _pages/publications.md -->
+<!-- _conferences/-->
 
-<div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
