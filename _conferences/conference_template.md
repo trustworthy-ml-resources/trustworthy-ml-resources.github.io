@@ -2,8 +2,9 @@
 layout: distill
 title: Conference + year
 description: location
-date: 2022-03-01
 category: 2023
+date: 2023-03-01
+img: assets/img/justice.png
 
 authors:
   - name: Prof. Dr. Funtimes

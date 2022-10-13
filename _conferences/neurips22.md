@@ -4,6 +4,7 @@ title: NeurIPS 2022
 description: New Orleans, LA, USA
 category: 2022
 date: 2022-11-28
+img: assets/img/justice.png
 
 authors:
   - name: Prof. Dr. Funtimes
