@@ -2,7 +2,7 @@
 layout: page
 title: resources
 permalink: /projects/
-description: A growing collection of your trustworthy ml research.
+description: a growing collection of your trustworthy ml research.
 nav: true
 horizontal: false
 order: 4

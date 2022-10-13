@@ -55,7 +55,7 @@ If a conference is coming up we will provide a separate form for each conference
   {%- else -%}
   <div class="grid">
     {%- for conference in sorted_projects -%}
-      {% include projects.html %}
+      {% include conferences.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
