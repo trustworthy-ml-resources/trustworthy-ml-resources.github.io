@@ -1,9 +1,9 @@
 ---
 layout: distill
-title: Conference + year
-description: location
-date: 2022-03-01
-category: 2023
+title: NeurIPS 2022
+description: New Orleans, LA, USA
+category: 2022
+date: 2022-11-28
 
 authors:
   - name: Prof. Dr. Funtimes
@@ -15,7 +15,7 @@ authors:
     affiliations:
       name: Departement of Jokes, University of Fun Times
 
-bibliography: 2022-03-01.bib
+bibliography: /conferences/neurips22 
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
@@ -41,7 +41,7 @@ toc:
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f conferences/conference_1/papers_1 -q @*[year={{y}}]* %}
+  {% bibliography -f conferences/neurips22/papers_1 -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
