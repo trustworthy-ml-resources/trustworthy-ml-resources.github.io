@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: NeurIPS 2022
+title: fairness
 description: New Orleans, LA, USA
 category: 2022
 date: 2022-11-28

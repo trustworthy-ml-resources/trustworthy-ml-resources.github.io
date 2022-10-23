@@ -1,9 +1,9 @@
 ---
 layout: distill
-title: Conference + year
+title: conf-year
 description: location
 category: 2023
-date: 2023-03-01
+#date: 2023-03-01
 img: assets/img/justice.png
 
 authors:
