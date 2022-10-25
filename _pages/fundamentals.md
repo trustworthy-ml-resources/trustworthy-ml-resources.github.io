@@ -13,11 +13,11 @@ Here we cover introductory resources for each trustworthy ml field. This include
 # general
 ### tutorials & talks
 * Nicolas Papernot. ["What does it mean for ML to be trustworthy?"](https://www.youtube.com/watch?v=UpGgIqLhaqo)
-* Himabindu Lakkaraju. ["Machine Learning for High Stakes Decision Making: Challenges and Opportunities." ](https://m.youtube.com/watch?v=nDJWbpXf2M0)
+* Himabindu Lakkaraju. ["Machine Learning for High Stakes Decision Making: Challenges and Opportunities."](https://m.youtube.com/watch?v=nDJWbpXf2M0)
 * Timnit Gebru and Emily Denton. ["Tutorial on Fairness Accountability Transparency and Ethics in Computer Vision."](https://sites.google.com/view/fatecv-tutorial/schedule) CVPR, 2020. 
 
 ### courses
-* Nicolas Papernot. [“Trustworthy Machine Learning.” University of Toronto.](https://www.papernot.fr/teaching/f19-trustworthy-ml)
+* Nicolas Papernot. [“Trustworthy Machine Learning.”](https://www.papernot.fr/teaching/f19-trustworthy-ml) University of Toronto.
 * Trevor Darrell, Dawn Song, and Jacob Steinhardt. [“Trustworthy Deep Learning.”](https://berkeley-deep-learning.github.io/cs294-131-s19/) University of California, Berkeley. 
 * Piotr Mardziel. [“Security and Fairness of Deep Learning.”](https://course.ece.cmu.edu/~ece739/syllabus.html) Carnegie Mellon University. 
 * Kamalika Chaudhuri. [“Topics in Trustworthy Machine Learning.”](https://cseweb.ucsd.edu/classes/sp20/cse291-b/) University of California, San Diego. 
