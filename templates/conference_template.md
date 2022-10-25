@@ -1,22 +1,10 @@
 ---
-layout: distill
+layout: conference
 title: conf-year
 description: location
+date: 2022-10-10
 category: 2023
-#date: 2023-03-01
 img: assets/img/justice.png
-
-authors:
-  - name: Prof. Dr. Funtimes
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
-    affiliations:
-      name: Departement of Jokes, University of Fun Times
-  - name: Boris Podolsky
-    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
-    affiliations:
-      name: Departement of Jokes, University of Fun Times
-
-bibliography: 2022-03-01.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:

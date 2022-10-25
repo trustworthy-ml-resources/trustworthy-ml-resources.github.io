@@ -7,6 +7,7 @@ nav: true
 horizontal: false
 order: 4
 ---
+THIS PAGE IS WORK IN PROGRESS
 <!-- display_categories: [work, fun] -->
 <!-- pages/projects.md -->
 <div class="projects">

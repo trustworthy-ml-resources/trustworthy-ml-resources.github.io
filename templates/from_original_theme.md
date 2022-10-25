@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Misc
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Privacy
+description: a project that redirects to another website
+img: assets/img/lock.png
+importance: 3
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

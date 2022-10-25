@@ -7,13 +7,13 @@ order: 1
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-profile:
-  align: right
-  image: blank.png
-  address: >
-    <p>Paper Highlight</p>
-    <p>Jane Doe PhD</p>
-    <p>University of X</p>
+#profile:
+#  align: right
+#  image: blank.png
+#  address: >
+#    <p>Paper Highlight</p>
+#    <p>Jane Doe PhD</p>
+#    <p>University of X</p>
 social: false # includes social icons at the bottom of the page
 ---
 

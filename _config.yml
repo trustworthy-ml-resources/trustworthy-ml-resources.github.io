@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: trustworthy ml resources # the website title (if blank, full name will be used instead)
-first_name: Marta
-middle_name: S.
-last_name: Lemanczyk
+first_name: Trustworthy
+middle_name:   
+last_name: ML
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.

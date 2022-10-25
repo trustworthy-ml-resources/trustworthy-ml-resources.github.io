@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Causality
-description: a project with a background image
+description:   
 img: assets/img/causal.png
 importance: 3
-category: fun
+category:   
 ---
 
 Every project has a beautiful feature showcase page.

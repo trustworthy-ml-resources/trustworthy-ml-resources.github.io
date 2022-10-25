@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Explainability
-description: another without an image
+title: explainability
+description:   
 img: assets/img/networking.png
 importance: 3
 category: fun
