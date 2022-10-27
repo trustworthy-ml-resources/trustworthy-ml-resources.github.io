@@ -17,9 +17,9 @@ toc:
   - name: explainability
   - name: causality
 ---
-This collection includes resources from the NeurIPS conference 2022. To add an accepted submission, please fill out the following form: LINK  
+This collection includes resources from the NeurIPS conference 2022. To add an accepted submission, please fill out the following [this form](https://forms.gle/rQQUN2zJQMKGwA7J6). Thank you!
 
-If your contribution was accepted at the co-located ML4H symposium, feel free to add it (add ML4H under session).
+If your contribution was accepted at the co-located ML4H symposium, please feel free to add it (add ML4H under session).
 
 
 ## fairness

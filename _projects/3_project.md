@@ -6,21 +6,17 @@ category: 2022
 img: assets/img/lock.png
 
 toc:
-  - name: fairness
+  - name: Year 2022
+  - name: Year 2021
     # if a section has subsections, you can add them as follows:
     # subsections:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
-  - name: robustness
-  - name: privacy
-  - name: explainability
-  - name: causality
-  - name: misc
+  - name: Year 2020
+  - name: Year 2019 and older
 
 ---
-## fairness
-## robustness
-## privacy
-## explainability
-## causality
-## misc
+## Year 2022
+## Year 2021
+## Year 2020
+## Year 2019 and older
