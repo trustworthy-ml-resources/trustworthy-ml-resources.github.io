@@ -1,0 +1,109 @@
+---
+layout: default
+---
+
+<!-- jobs.html -->
+      <div class="post">
+        <!--div class="row"-->
+        <div class="post col-md-8 col-md-offset-2">
+          <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+          </header>
+          <article class="post-content">
+
+            <p>
+            <table>
+              <tr>
+                <td>Organization:</td>
+                <td><a id="organization" class="organization" href="{{ page.org_url }}">{{ page.organization }}</a></td>
+              </tr>
+              <tr>
+                <td>Status: </td>
+                <td><span id="status" class="status">{{ page.status }}</span></td>
+              </tr>
+
+              {% if page.rate == empty %}
+              <tr>
+                <td>Rate:</td>
+                <td><span id="rate" class="rate">{{ page.rate }}</span></td>
+              </tr>
+              {% endif %}
+
+              <tr>
+                <td>Date Posted:</td>
+                <td> <span id="date" class="date">{{ page.date_posted }}</span></td>
+              </tr>
+              <tr>
+                <td>Tagged as:</td>
+                <td>
+                  {% for tag in page.tags %}
+                  {{ tag }}
+                  {% endfor %}
+                </td>
+              </tr>
+
+              {% if page.role %}
+              <tr>
+                <td>Role:</td>
+                <td>{{ page.role }}</td>
+              </tr>
+              {% endif %}
+
+              {% if page.requirements != empty %}
+              <tr>
+                <td>Requirements:</td>
+                <td> {{ page.requirements}}</td>
+              </tr>
+              {% endif %}
+
+              {% if page.compensation %}
+              <tr>
+                <td>Compensation:</td>
+                <td>{{ page.compensation }}</td>
+              </tr>
+              {% endif %}
+
+
+              {% if page.how_to_apply %}
+              <tr>
+                <td>How to apply:</td>
+                <td>
+                  <ul>
+                    {% for apply_link in page.how_to_apply %}
+                    <li>{{ apply_link | markdownify }}</li>
+                    {% endfor %}
+                  </ul>
+                </td>
+              </tr>
+              {% endif %}
+
+              {% if page.links %}
+              <tr>
+                <td>Links:</td>
+                <td>{{ page.links }}</td>
+              </tr>
+              {% endif %}
+            </table>
+          </p>
+            <br/>
+            {{ content | markdownify }}
+          </article>
+          <div id='discourse-comments'></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://discourse.opensourcedesign.net/',
+                     discourseEmbedUrl: '{{site.url}}/jobs{{page.url}}' };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
+-->
+
+ 
