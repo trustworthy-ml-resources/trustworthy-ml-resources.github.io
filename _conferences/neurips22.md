@@ -38,6 +38,11 @@ Zhouxing Shi · Yihan Wang · Huan Zhang · J. Zico Kolter · Cho-Jui Hsieh
 Wed 30 Nov, 11 a.m (Hall J, Room 523)  
 https://arxiv.org/pdf/2210.07394.pdf
 
+Poster: **Your Out-of-Distribution Detection Method is Not Robust!**  
+Mohammad Azizmalayeri · Arshia Soltani Moakhar · Arman Zarei · Reihaneh Zohrabi · Mohammad Manzuri · Mohammad Hossein Rohban 
+https://neurips.cc/virtual/2022/poster/53795  
+(Spotlight presentation: https://neurips.cc/virtual/2022/spotlight/65149, Thu 8 Dec 11:30 a.m. online)
+
 ## privacy
 ## explainability
 Invited talk: **A Brief History of Explainable AI: From Simple Rules to Large Pretrained Models** (Affinity Workshop 'Women in ML')  
@@ -57,7 +62,7 @@ Thu 1 Dec, 10 a.m. (Room 295-296)
 https://nips.cc/virtual/2022/workshop/49993#wse-detail-61720
 
 ## regulation
-Social: ML Safety  
+Social: **ML Safety**  
 David Krueger · Orpheus Lummis  
 Wed 30 Nov 1-3 a.m. (Room 394)  
   
@@ -70,8 +75,8 @@ Invied talk: **Ethics of AI and Large Scale ML — Beyond Rules and Regulations*
 Jean-Gabriel Ganascia (Sorbonne University)
 Mon 28 Nov 10:30 a.m. (Room 295)
   
-Social: **Ethics Review - Open Discussion**
-Deborah Raji · William Isaac · Cherie Poland · Alexandra Luccioni
+Social: **Ethics Review - Open Discussion**  
+Deborah Raji · William Isaac · Cherie Poland · Alexandra Luccioni  
 Wed 30 Nov 1-3 a.m. (Room 395)
 
 
