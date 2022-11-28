@@ -26,7 +26,7 @@ If your contribution was accepted at the co-located ML4H symposium, please feel 
 Times are in CST. Thank you!
 
 ## fairness
-Poster: **A Survey and Datasheet Repository of Publicly Available US Criminal Justice Datasets** (Poster Session 4)
+Poster: **A Survey and Datasheet Repository of Publicly Available US Criminal Justice Datasets** (Poster Session 4)  
 Miri Zilka · Bradley Butcher · Adrian Weller  
 Wed Nov 30, 4 p.m. (Hall J, Room 1023)  
 <https://neurips.cc/virtual/2022/poster/55642>
@@ -44,7 +44,7 @@ Wed 30 Nov, 11 a.m (Hall J, Room 523)
 
 Poster: **Formulating Robustness Against Unforeseen Attacks** (Poster Session 6)  
 Sihui Dai · Saeed Mahloujifar · Prateek Mittal  
-Thu 1 Dec, 4 p.m. (Hall J, Room: 511) 
+Thu 1 Dec, 4 p.m. (Hall J, Room: 511)  
 <https://arxiv.org/abs/2204.13779>   
 
 Poster: **Your Out-of-Distribution Detection Method is Not Robust!** (Virtual)  
