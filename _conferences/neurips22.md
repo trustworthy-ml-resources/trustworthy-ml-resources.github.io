@@ -29,27 +29,34 @@ Times are in CST. Thank you!
 ## robustness
 ## privacy
 ## explainability
+Invited talk: **A Brief History of Explainable AI: From Simple Rules to Large Pretrained Models** (Affinity Workshop 'Women in ML')
+Hima Lakkaraju (Harvard)
+Mon 28 Nov, 2:35 pm (Hall I-2)
+
 ## causality
 ## regulation
-Workshop: **Progress and Challenges in Building Trustworthy Embodied AI**
-Fri 2 Dec, 7:50 a.m. (Room 281-282)
-https://sites.google.com/berkeley.edu/trustworthy-embodied-ai
-  
 Social: ML Safety
 David Krueger · Orpheus Lummis
 Wed 30 Nov 1-3 a.m. (Room 394)
+  
+Workshop: **Progress and Challenges in Building Trustworthy Embodied AI**
+Fri 2 Dec, 7:50 a.m. (Room 281-282)
+https://sites.google.com/berkeley.edu/trustworthy-embodied-ai
 
 ## other
+Invied talk: **Ethics of AI and Large Scale ML — Beyond Rules and Regulations** (Workshop 'New In ML')
+Jean-Gabriel Ganascia (Sorbonne University)
+Mon 28 Nov 10:30 a.m. (Room 295)
+  
 Social: **Ethics Review - Open Discussion**
 Deborah Raji · William Isaac · Cherie Poland · Alexandra Luccioni
-
 Wed 30 Nov 1-3 a.m. (Room 395)
 
 
+
 <!-- Template
-type of contribtion: title 
+type of contribtion: title (optional: session)
 author/speaker
-session (optional)
 date, time (virtual or on-site(state location))
 link
 --->
