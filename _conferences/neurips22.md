@@ -58,6 +58,11 @@ Invited talk: **A Brief History of Explainable AI: From Simple Rules to Large Pr
 Hima Lakkaraju (Harvard)  
 Mon 28 Nov, 2:35 pm (Hall I-2)  
   
+Poster: **What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods** (Poster Session 1)
+Julien Colin · Thomas FEL · Remi Cadene · Thomas Serre
+Tue 29 Nov, 11 a.m. (Hall J, Room 927)
+<https://neurips.cc/virtual/2022/poster/55282>  
+  
 Poster: **Use-Case-Grounded Simulations for Explanation Evaluation** (Poster Session 6)  
 Valerie Chen · Nari Johnson · Nicholay Topin · Gregory Plumb · Ameet Talwalkar  
 Thu 1 Dec, 4 p.m. (Hall J, Room: 511)  
