@@ -28,23 +28,28 @@ Times are in CST. Thank you!
 ## fairness
 Poster: **A Survey and Datasheet Repository of Publicly Available US Criminal Justice Datasets** (Poster Session 4)  
 Miri Zilka · Bradley Butcher · Adrian Weller  
-Wed Nov 30, 4 p.m. (Hall J, Room 1023)  
+Wed Nov 30, 4 p.m. (Hall J, #1023)  
 <https://neurips.cc/virtual/2022/poster/55642>
 
 ## robustness
 Poster: **Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts** (Poster Session 1) 
 Neeraj Wagh · Jionghao Wei · Samarth Rawal · Brent M. Berry · Yogatheesan Varatharajah  
-Tue 29 Nov, 11:30 a.m (Hall J, Room 523)  
+Tue 29 Nov, 11:30 a.m (Hall J, #523)  
 <https://neurips.cc/virtual/2022/poster/52788>  
   
 Poster: **Efficiently Computing Local Lipschitz Constants of Neural Networks via Bound Propagation** (Poster Session 3)  
 Zhouxing Shi · Yihan Wang · Huan Zhang · J. Zico Kolter · Cho-Jui Hsieh  
-Wed 30 Nov, 11 a.m (Hall J, Room 523)  
+Wed 30 Nov, 11 a.m (Hall J, #523)  
 <https://arxiv.org/pdf/2210.07394.pdf>
+
+Poster: **Explicit Tradeoffs between Adversarial and Natural Distributional Robustness** (Poster Session 5)  
+Mazda Moayeri · Kiarash Banihashem · Soheil Feizi  
+Thu 1 Dec 11 a.m. (Hall J #732)  
+arxiv.org/abs/2209.07592
 
 Poster: **Formulating Robustness Against Unforeseen Attacks** (Poster Session 6)  
 Sihui Dai · Saeed Mahloujifar · Prateek Mittal  
-Thu 1 Dec, 4 p.m. (Hall J, Room: 511)  
+Thu 1 Dec, 4 p.m. (Hall J, #511)  
 <https://arxiv.org/abs/2204.13779>   
 
 Poster: **Your Out-of-Distribution Detection Method is Not Robust!** (Virtual)  
@@ -60,12 +65,12 @@ Mon 28 Nov, 2:35 pm (Hall I-2)
   
 Poster: **What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods** (Poster Session 1)
 Julien Colin · Thomas FEL · Remi Cadene · Thomas Serre
-Tue 29 Nov, 11 a.m. (Hall J, Room 927)
+Tue 29 Nov, 11 a.m. (Hall J, #927)
 <https://neurips.cc/virtual/2022/poster/55282>  
   
 Poster: **Use-Case-Grounded Simulations for Explanation Evaluation** (Poster Session 6)  
 Valerie Chen · Nari Johnson · Nicholay Topin · Gregory Plumb · Ameet Talwalkar  
-Thu 1 Dec, 4 p.m. (Hall J, Room: 511)  
+Thu 1 Dec, 4 p.m. (Hall J, #511)  
 <https://arxiv.org/abs/2206.02256>  
 
 Spotlight talk: **Does the explanation satisfy your needs?: A unified view of properties of explanations** (Workshop:
