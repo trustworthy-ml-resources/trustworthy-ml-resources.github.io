@@ -63,7 +63,7 @@ Wed 30 Nov, 11 a.m (Hall J, #523)
 <https://arxiv.org/pdf/2210.07394.pdf>
   
 Poster: **Lethal Dose Conjecture on Data Poisoning** (Poster Session 5)  
-Wenxiao Wang · Alexander Levine · Soheil Feizi
+Wenxiao Wang · Alexander Levine · Soheil Feizi  
 Thu 1 Dec 11 a.m. (Hall J #712)  
 <https://arxiv.org/abs/2208.03309>  
   
@@ -93,9 +93,9 @@ Invited talk: **A Brief History of Explainable AI: From Simple Rules to Large Pr
 Hima Lakkaraju (Harvard)  
 Mon 28 Nov, 2:35 pm (Hall I-2)  
   
-Poster: **What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods** (Poster Session 1)
-Julien Colin · Thomas FEL · Remi Cadene · Thomas Serre
-Tue 29 Nov, 11 a.m. (Hall J, #927)
+Poster: **What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods** (Poster Session 1)  
+Julien Colin · Thomas FEL · Remi Cadene · Thomas Serre  
+Tue 29 Nov, 11 a.m. (Hall J, #927)  
 <https://neurips.cc/virtual/2022/poster/55282>  
   
 Poster: **Locating and Editing Factual Associations in GPT** (Poster Session 4)  
