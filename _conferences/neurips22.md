@@ -37,21 +37,51 @@ Neeraj Wagh · Jionghao Wei · Samarth Rawal · Brent M. Berry · Yogatheesan Va
 Tue 29 Nov, 11:30 a.m (Hall J, #523)  
 <https://neurips.cc/virtual/2022/poster/52788>  
   
+Poster: **Improved techniques for deterministic L2 robustness** (Poster Session 1)  
+Sahil Singla · Soheil Feizi  
+Tue 29 Nov, 11 a.m. (Hall J #641)  
+<https://nips.cc/virtual/2022/poster/53341>  
+  
+Poster: **What You See is What You Get: Principled Deep Learning via Distributional Generalization** (Poster Session 2)  
+Bogdan Kulynych · Yao-Yuan Yang · Yaodong Yu · Jarosław Błasiok · Preetum Nakkiran  
+Tue 29 Nov 4 p.m. (Hall J #332)  
+<https://neurips.cc/virtual/2022/poster/53983>  
+  
+Poster: **Double Bubble, Toil and Trouble: Enhancing Certified Robustness through Transitivity** (Poster Session 2)  
+Andrew Cullen · Paul Montague · Shijie Liu · Sarah Erfani · Benjamin Rubinstein  
+Tue 29 Nov, 4 p.m. (Hall J #731)  
+<https://nips.cc/virtual/2022/poster/53661>  
+  
+Poster: **Toward Efficient Robust Training against Union of Lp Threat Models** (Poster Session 2)  
+Gaurang Sriramanan · Maharshi Gor · Soheil Feizi    
+Tue 29 Nov 4 p.m. (Hall J #803)  
+<https://nips.cc/virtual/2022/poster/52908>   
+  
 Poster: **Efficiently Computing Local Lipschitz Constants of Neural Networks via Bound Propagation** (Poster Session 3)  
 Zhouxing Shi · Yihan Wang · Huan Zhang · J. Zico Kolter · Cho-Jui Hsieh  
 Wed 30 Nov, 11 a.m (Hall J, #523)  
 <https://arxiv.org/pdf/2210.07394.pdf>
-
+  
+Poster: **Lethal Dose Conjecture on Data Poisoning** (Poster Session 5)  
+Wenxiao Wang · Alexander Levine · Soheil Feizi
+Thu 1 Dec 11 a.m. (Hall J #712)  
+<https://arxiv.org/abs/2208.03309>  
+  
 Poster: **Explicit Tradeoffs between Adversarial and Natural Distributional Robustness** (Poster Session 5)  
 Mazda Moayeri · Kiarash Banihashem · Soheil Feizi  
 Thu 1 Dec 11 a.m. (Hall J #732)  
-arxiv.org/abs/2209.07592
+<https://arxiv.org/abs/2209.07592>
 
 Poster: **Formulating Robustness Against Unforeseen Attacks** (Poster Session 6)  
 Sihui Dai · Saeed Mahloujifar · Prateek Mittal  
 Thu 1 Dec, 4 p.m. (Hall J, #511)  
-<https://arxiv.org/abs/2204.13779>   
-
+<https://arxiv.org/abs/2204.13779>  
+  
+Tutorial: **Foundational Robustness of Foundation Models** (Virtual)  
+Pin-Yu Chen · Sijia Liu · Sayak Paul  
+Mon 5 Dec, 7 a.m.  
+https://neurips.cc/virtual/2022/tutorial/55796  
+  
 Poster: **Your Out-of-Distribution Detection Method is Not Robust!** (Virtual)  
 Mohammad Azizmalayeri · Arshia Soltani Moakhar · Arman Zarei · Reihaneh Zohrabi · Mohammad Manzuri · Mohammad Hossein Rohban 
 <https://neurips.cc/virtual/2022/poster/53795>  
@@ -68,11 +98,21 @@ Julien Colin · Thomas FEL · Remi Cadene · Thomas Serre
 Tue 29 Nov, 11 a.m. (Hall J, #927)
 <https://neurips.cc/virtual/2022/poster/55282>  
   
+Poster: **Locating and Editing Factual Associations in GPT** (Poster Session 4)  
+Kevin Meng · David Bau · Alex Andonian · Yonatan Belinko  
+Wed 30 Nov, 4 p.m. (Hall J #226)  
+<https://neurips.cc/virtual/2022/poster/53864>  
+  
 Poster: **Use-Case-Grounded Simulations for Explanation Evaluation** (Poster Session 6)  
 Valerie Chen · Nari Johnson · Nicholay Topin · Gregory Plumb · Ameet Talwalkar  
 Thu 1 Dec, 4 p.m. (Hall J, #511)  
 <https://arxiv.org/abs/2206.02256>  
-
+  
+Poster: **Washing The Unwashable : On The (Im)possibility of Fairwashing Detection** (Poster Session 6)  
+Ali Shahin Shamsabadi · Mohammad Yaghini · Natalie Dullerud · Sierra Wyllie · Ulrich Aïvodji · Aisha Alaagib · Sébastien Gambs · Nicolas Papernot  
+Thu 1 Dec, 4 p.m. (Hall J #732)  
+<https://nips.cc/virtual/2022/poster/54741>    
+  
 Spotlight talk: **Does the explanation satisfy your needs?: A unified view of properties of explanations** (Workshop:
 Progress and Challenges in Building Trustworthy Embodied AI)    
 Varshini Subhash · Zixi Chen · Marton Havasi · Weiwei Pan · Finale Doshi-Velez  
