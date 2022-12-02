@@ -119,6 +119,11 @@ Varshini Subhash · Zixi Chen · Marton Havasi · Weiwei Pan · Finale Doshi-Vel
 Fri 2 Dec, 2:53 p.m (Room 281-282)  
 <https://arxiv.org/abs/2211.05667>  
 
+Poster: **Bounded logit attention: Learning to explain image classifiers** (Workshop: All Things Attention: Bridging Different Perspectives on Attention)  
+Thomas Baumhauer · Djordje Slijepcevic · Matthias Zeppelzauer  
+Fri 2 Dec, 1 p.m (Room 399)  
+<https://attention-learning-workshop.github.io/2022/papers/baumhauer-bounded_logit_attention_learning_to_explain_image_classifiers.pdf>  
+
 ## causality
 Poster: **Exploiting Selection Bias on Underspecified Tasks in Large Language Models** (Workshop: Causal Machine Learning for Real-World Impact Workshop)  
 Emily McMilin  
