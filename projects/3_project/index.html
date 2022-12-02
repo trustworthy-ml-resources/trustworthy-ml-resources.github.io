@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-
-  <!-- Head -->
+<!-- _layouts/conference.html -->
+<html>
   <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
@@ -9,7 +8,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>trustworthy ml resources | highlights</title>
+    <title>trustworthy ml resources | privacy</title>
     <meta name="author" content="Trustworthy  ML" />
     <meta name="description" content="Based on [*folio](https://github.com/bogoli/-folio) design.
 " />
@@ -33,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/trustml_logo.jpg"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://trustworthy-ml-resources.github.io/blog/">
+    <link rel="canonical" href="https://trustworthy-ml-resources.github.io/projects/3_project/">
     
     <!-- Dark Mode -->
     
@@ -43,10 +42,34 @@
     <script src="/assets/js/dark_mode.js"></script>
     
 
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    <!-- Distill js -->
+    <script src="/assets/js/distillpub/template.v2.js"></script>
+    <script src="/assets/js/distillpub/transforms.v2.js"></script>
+    
   </head>
 
-  <!-- Body -->
-  <body class="fixed-top-nav ">
+  <d-front-matter>
+    <script async type="text/json">{
+      "title": "privacy",
+      "description": "",
+      "published": "December 2, 2022",
+      
+    }</script>
+  </d-front-matter>
+
+  <body class="fixed-top-nav">
 
     <!-- Header -->
     <header>
@@ -83,8 +106,8 @@
               </li>
 
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -96,91 +119,61 @@
     </header>
 
     <!-- Content -->
-    <div class="container mt-5">
-      <div class="post">
+    <div class="post distill">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>current news for our resource page</h2>
-  </div>
+      <d-title>
+        <h1>privacy</h1>
+        <p></p>
+      </d-title>
 
 
-  <ul class="post-list">
-    
+      <d-article>
+        <d-contents>
+          <nav class="l-text figcaption">
+          <h3>Contents</h3>
+            <div><a href="#year-2022">Year 2022</a></div>
+            <div><a href="#year-2021">Year 2021</a></div>
+            <div><a href="#year-2020">Year 2020</a></div>
+            <div><a href="#year-2019-and-older">Year 2019 and older</a></div>
+            
+          </nav>
+        </d-contents>
 
-    <!--  -->
-    
-    
-    
+        <h2 id="year-2022">Year 2022</h2>
+<h2 id="year-2021">Year 2021</h2>
+<h2 id="year-2020">Year 2020</h2>
+<h2 id="year-2019-and-older">Year 2019 and older</h2>
 
-    <li>
-      <h3>
-        
-          <a class="post-title" href="/blog/2022/highlight1/">research group abc</a>
-        
-      </h3>
-      <p>University of Fun Times</p>
-      <p class="post-meta"> 7 min read &nbsp; &middot; &nbsp;
-        March 1, 2022
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2022">
-          <i class="fas fa-calendar fa-sm"></i> 2022 </a>
+      </d-article>
 
-          
-
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  
-
-</div>
+      <d-appendix>
+        <d-footnote-list></d-footnote-list>
+        <d-citation-list></d-citation-list>
+      </d-appendix>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2022 Trustworthy  ML. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+        © Copyright 2022 Trustworthy  ML. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
 
       </div>
     </footer>
 
-    <!-- JavaScripts -->
-    <!-- jQuery -->
+  </body>
+
+  <d-bibliography src="/assets/bibliography/">
+  </d-bibliography>
+
+  <!-- jQuery -->
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
-    <!-- Bootsrap & MDB scripts -->
+  <!-- Bootsrap & MDB scripts -->
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js" integrity="sha256-l/1pMF/+J4TThfgARS6KwWrk/egwuVvhRzfLAMQ6Ds4=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha256-SyTu6CwrfOhaznYZPoolVw2rxoY7lKYKQvqbtqN93HI=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
 
-    <!-- Masonry & imagesLoaded -->
-  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
-    
-  <!-- Medium Zoom JS -->
-  <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
-  <script src="/assets/js/zoom.js"></script><!-- Load Common JS -->
-  <script src="/assets/js/common.js"></script>
+  <script src="/assets/js/distillpub/overrides.js"></script>
 
-    <!-- MathJax -->
-  <script type="text/javascript">
-    window.MathJax = {
-      tex: {
-        tags: 'ams'
-      }
-    };
-  </script>
-  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
-  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-
-    
-  </body>
 </html>
-

@@ -9,10 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>trustworthy ml resources | highlights</title>
+    <title>trustworthy ml resources | conferences</title>
     <meta name="author" content="Trustworthy  ML" />
-    <meta name="description" content="Based on [*folio](https://github.com/bogoli/-folio) design.
-" />
+    <meta name="description" content="trustworthy ml resources from conferences" />
     <meta name="keywords" content="trustworthy machine learning, resources, job-board" />
 
 
@@ -33,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/trustml_logo.jpg"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://trustworthy-ml-resources.github.io/blog/">
+    <link rel="canonical" href="https://trustworthy-ml-resources.github.io/conferences/">
     
     <!-- Dark Mode -->
     
@@ -75,16 +74,16 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/fundamentals/">fundamentals</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/conferences/">conferences</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/conferences/">conferences<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/jobs/">jobs</a>
               </li>
 
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -97,55 +96,68 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>current news for our resource page</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">conferences</h1>
+            <p class="post-description">trustworthy ml resources from conferences</p>
+          </header>
 
+          <article>
+            <!--Here, we will create multiple folders for conferences. -->
+<p>Top tier machine learning conferences get larger every year and the number of accepted papers rises. This includes a lot of interesting papers from our community. Here, we would like to collect trustworthy ml resources from large conferences to highlight contributions from our community!</p>
+<ul>
+  <li>Add links to the resources before a conference to draw attention to trustworthy ML talks. In this way, we can increase interactions on conferences and promote work from our community.</li>
+  <li>Add papers/talks after a conference to complete the list of trustworthy ml resources for the given conference.</li>
+</ul>
 
-  <ul class="post-list">
-    
+<p>If a conference is coming up we will provide a separate form for each conference we are covering. 
+<!-- _conferences/--></p>
 
-    <!--  -->
-    
-    
-    
+<div class="projects">
+<!-- Display projects without categories --><!-- Generate cards for each project -->
+  <div class="grid">
+<!-- _includes/conferences.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/conferences/neurips22/">
+      <div class="card hoverable">
+<figure>
 
-    <li>
-      <h3>
-        
-          <a class="post-title" href="/blog/2022/highlight1/">research group abc</a>
-        
-      </h3>
-      <p>University of Fun Times</p>
-      <p class="post-meta"> 7 min read &nbsp; &middot; &nbsp;
-        March 1, 2022
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2022">
-          <i class="fas fa-calendar fa-sm"></i> 2022 </a>
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/neurips_logo-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/neurips_logo-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/neurips_logo-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/neurips_logo.png" alt="conference thumbnail">
 
-          
+  </picture>
 
-          
-    </p>
-    </li>
+</figure>
 
-    
-  </ul>
-
-  
-
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">NeurIPS 2022</h2>
+          <p class="card-text">Nov 28 - Dec 9 2022 in New Orleans (USA)</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
 </div>
+  </div>
+</div>
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2022 Trustworthy  ML. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+        © Copyright 2022 Trustworthy  ML. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
 
       </div>
     </footer>
